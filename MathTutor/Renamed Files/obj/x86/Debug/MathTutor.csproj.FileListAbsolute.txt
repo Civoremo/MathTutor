@@ -1,0 +1,2 @@
+C:\C# files\Visual Studio 2010\Projects\MathTutor\MathTutor\MathTutor\Renamed Files\obj\x86\Debug\MathTutor.mainWin.resources
+C:\C# files\Visual Studio 2010\Projects\MathTutor\MathTutor\MathTutor\Renamed Files\obj\x86\Debug\MathTutor.csproj.GenerateResource.Cache

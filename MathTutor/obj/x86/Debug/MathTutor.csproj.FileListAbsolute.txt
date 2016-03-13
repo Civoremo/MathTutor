@@ -1,0 +1,19 @@
+C:\Users\NtD\AppData\Local\Temporary Projects\MathTutor\bin\Debug\MathTutor.exe
+C:\Users\NtD\AppData\Local\Temporary Projects\MathTutor\bin\Debug\MathTutor.pdb
+C:\Users\NtD\AppData\Local\Temporary Projects\MathTutor\obj\x86\Debug\MathTutor.Properties.Resources.resources
+C:\Users\NtD\AppData\Local\Temporary Projects\MathTutor\obj\x86\Debug\MathTutor.csproj.GenerateResource.Cache
+C:\Users\NtD\AppData\Local\Temporary Projects\MathTutor\obj\x86\Debug\MathTutor.exe
+C:\Users\NtD\AppData\Local\Temporary Projects\MathTutor\obj\x86\Debug\MathTutor.pdb
+C:\Users\NtD\AppData\Local\Temporary Projects\MathTutor\obj\x86\Debug\MathTutor.mainWin.resources
+C:\C# files\Visual Studio 2010\Projects\MathTutor\MathTutor\MathTutor\obj\x86\Debug\MathTutor.exe
+C:\C# files\Visual Studio 2010\Projects\MathTutor\MathTutor\MathTutor\obj\x86\Debug\MathTutor.pdb
+C:\C# files\Visual Studio 2010\Projects\MathTutor\MathTutor\MathTutor\bin\Debug\MathTutor.exe
+C:\C# files\Visual Studio 2010\Projects\MathTutor\MathTutor\MathTutor\bin\Debug\MathTutor.pdb
+C:\C# files\Visual Studio 2010\Projects\MathTutor\MathTutor\MathTutor\obj\x86\Debug\MathTutor.mainWin.resources
+C:\C# files\Visual Studio 2010\Projects\MathTutor\MathTutor\MathTutor\obj\x86\Debug\MathTutor.Properties.Resources.resources
+C:\C# files\Visual Studio 2010\Projects\MathTutor\MathTutor\MathTutor\obj\x86\Debug\MathTutor.csproj.GenerateResource.Cache
+C:\C# files\Visual Studio 2010\Projects\MathTutor\MathTutor\MathTutor\bin\Debug\MathTutor.exe.manifest
+C:\C# files\Visual Studio 2010\Projects\MathTutor\MathTutor\MathTutor\bin\Debug\MathTutor.application
+C:\C# files\Visual Studio 2010\Projects\MathTutor\MathTutor\MathTutor\obj\x86\Debug\MathTutor.exe.manifest
+C:\C# files\Visual Studio 2010\Projects\MathTutor\MathTutor\MathTutor\obj\x86\Debug\MathTutor.application
+C:\C# files\Visual Studio 2010\Projects\MathTutor\MathTutor\MathTutor\obj\x86\Debug\MathTutor.csprojResolveAssemblyReference.cache
